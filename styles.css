@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.box-1{
+	width: 150px;
+	height: 100px;
+	background: black;
+	color: white;
+}
